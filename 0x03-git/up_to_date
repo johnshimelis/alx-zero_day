@@ -1,0 +1,8 @@
+ git init 
+ git status
+ git pull https://github.com/johnshimelis/alx-zero_day/master/0x01-git
+ git add .
+ git commit -m "How to be up to date in git"
+ git remote add origin https://github.com/johnshimelis/alx-zero_day/master/0x01-git
+ git push -u origin master
+
